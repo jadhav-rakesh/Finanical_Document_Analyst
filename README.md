@@ -11,7 +11,6 @@ It verifies uploaded financial PDFs, extracts structured data, provides professi
 - **Financial Analysis** → Extracts and interprets revenue, net income, EPS, leverage ratios, etc.  
 - **Investment Insights** → Provides data-driven Buy/Hold/Sell recommendations.  
 - **Risk Assessment** → Evaluates liquidity, leverage, and market risks.  
-- **Search Integration (optional)** → via Serper search tool.
 
 ---
 
